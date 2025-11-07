@@ -26,9 +26,7 @@
     "react-native-fs": "^2.20.0",
     "react-native-video": "^5.2.1",
     "react-native-video-processing": "^2.0.0",
-    "@tensorflow/tfjs": "^4.10.0",
-    "@tensorflow/tfjs-react-native": "^0.8.0",
-    "@tensorflow-models/pose-detection": "^2.1.0",
+    "react-native-fast-tflite": "^1.2.0",
     "expo-av": "~13.4.1",
     "react-native-svg": "13.9.0",
     "react-native-reanimated": "~3.3.0",
@@ -46,7 +44,7 @@
     "react-native-localize": "^3.0.2",
     "i18n-js": "^4.3.0",
     "react-native-offline": "^6.0.2",
-    "react-native-netinfo": "^9.4.0",
+    "@react-native-community/netinfo": "^11.3.2",
     "expo-network": "~5.4.0",
     "react-native-progress": "^5.0.0",
     "react-native-chart-kit": "^6.12.0",
@@ -56,7 +54,10 @@
     "react-native-randombytes": "^3.6.1",
     "buffer": "^6.0.3",
     "crypto-js": "^4.1.1",
-    "react-native-sha256": "^1.4.9"
+    "react-native-sha256": "^1.4.9",
+    "react-native-web": "~0.19.6",
+    "react-dom": "18.2.0",
+    "@expo/webpack-config": "^19.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
