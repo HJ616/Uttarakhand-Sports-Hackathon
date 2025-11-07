@@ -1,0 +1,18 @@
+{"level":"info","message":"SAI Assessment Platform API server running on port 5000","service":"sai-assessment-backend","timestamp":"2025-11-07T05:47:47.649Z"}
+{"level":"info","message":"Environment: development","service":"sai-assessment-backend","timestamp":"2025-11-07T05:47:47.656Z"}
+{"level":"info","message":"Health check: http://localhost:5000/health","service":"sai-assessment-backend","timestamp":"2025-11-07T05:47:47.656Z"}
+{"level":"info","message":"API docs: http://localhost:5000/api/docs","service":"sai-assessment-backend","timestamp":"2025-11-07T05:47:47.657Z"}
+{"level":"warn","message":"MongoDB disconnected","service":"sai-assessment-backend","timestamp":"2025-11-07T05:47:52.652Z"}
+{"level":"info","message":"SAI Assessment Platform API server running on port 5000","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:01.338Z"}
+{"level":"info","message":"Environment: development","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:01.344Z"}
+{"level":"info","message":"Health check: http://localhost:5000/health","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:01.345Z"}
+{"level":"info","message":"API docs: http://localhost:5000/api/docs","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:01.346Z"}
+{"level":"warn","message":"MongoDB disconnected","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:06.340Z"}
+{"level":"info","message":"SAI Assessment Platform API server running on port 5000","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:33.219Z"}
+{"level":"info","message":"Environment: development","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:33.231Z"}
+{"level":"info","message":"Health check: http://localhost:5000/health","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:33.232Z"}
+{"level":"info","message":"API docs: http://localhost:5000/api/docs","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:33.232Z"}
+{"level":"error","message":"MongoDB connection failed:","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:38.212Z"}
+{"level":"info","message":"Falling back to Mock Database for development","service":"sai-assessment-backend","timestamp":"2025-11-07T05:49:38.213Z"}
+{"level":"info","message":"::1 - - [07/Nov/2025:05:52:36 +0000] \"GET /health HTTP/1.1\" 200 236 \"-\" \"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.6725\"","service":"sai-assessment-backend","timestamp":"2025-11-07T05:52:36.979Z"}
+{"level":"info","message":"::1 - - [07/Nov/2025:05:52:46 +0000] \"GET /api/docs HTTP/1.1\" 200 1802 \"-\" \"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.6725\"","service":"sai-assessment-backend","timestamp":"2025-11-07T05:52:46.870Z"}
